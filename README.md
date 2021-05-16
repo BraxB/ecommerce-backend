@@ -34,7 +34,7 @@ Through it, I feel much more comfortable using sequelize and making requests thr
 
 Via an app that allows API testing, you can make GET, POST, PUT, and DELETE requests to create, read, update, and delete products, tags, and categories.
 
-[Installation Walkthrough](https://drive.google.com/file/d/1hDJz81xcL_qKzIBJgQi4K_bfWTAXiauc/view)
+[Usage Walkthrough](https://drive.google.com/file/d/1hDJz81xcL_qKzIBJgQi4K_bfWTAXiauc/view)
 
 ## Contributing
 
